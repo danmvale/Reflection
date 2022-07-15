@@ -1,0 +1,15 @@
+D:\Lets Code\Web Full Stack\3 - Programação Orientada a Objetos II\Reflection\Reflection\bin\Debug\net6.0\ReflectionEx.exe
+D:\Lets Code\Web Full Stack\3 - Programação Orientada a Objetos II\Reflection\Reflection\bin\Debug\net6.0\ReflectionEx.deps.json
+D:\Lets Code\Web Full Stack\3 - Programação Orientada a Objetos II\Reflection\Reflection\bin\Debug\net6.0\ReflectionEx.runtimeconfig.json
+D:\Lets Code\Web Full Stack\3 - Programação Orientada a Objetos II\Reflection\Reflection\bin\Debug\net6.0\ReflectionEx.dll
+D:\Lets Code\Web Full Stack\3 - Programação Orientada a Objetos II\Reflection\Reflection\bin\Debug\net6.0\ReflectionEx.pdb
+D:\Lets Code\Web Full Stack\3 - Programação Orientada a Objetos II\Reflection\Reflection\obj\Debug\net6.0\ReflectionEx.csproj.AssemblyReference.cache
+D:\Lets Code\Web Full Stack\3 - Programação Orientada a Objetos II\Reflection\Reflection\obj\Debug\net6.0\ReflectionEx.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lets Code\Web Full Stack\3 - Programação Orientada a Objetos II\Reflection\Reflection\obj\Debug\net6.0\ReflectionEx.AssemblyInfoInputs.cache
+D:\Lets Code\Web Full Stack\3 - Programação Orientada a Objetos II\Reflection\Reflection\obj\Debug\net6.0\ReflectionEx.AssemblyInfo.cs
+D:\Lets Code\Web Full Stack\3 - Programação Orientada a Objetos II\Reflection\Reflection\obj\Debug\net6.0\ReflectionEx.csproj.CoreCompileInputs.cache
+D:\Lets Code\Web Full Stack\3 - Programação Orientada a Objetos II\Reflection\Reflection\obj\Debug\net6.0\ReflectionEx.dll
+D:\Lets Code\Web Full Stack\3 - Programação Orientada a Objetos II\Reflection\Reflection\obj\Debug\net6.0\refint\ReflectionEx.dll
+D:\Lets Code\Web Full Stack\3 - Programação Orientada a Objetos II\Reflection\Reflection\obj\Debug\net6.0\ReflectionEx.pdb
+D:\Lets Code\Web Full Stack\3 - Programação Orientada a Objetos II\Reflection\Reflection\obj\Debug\net6.0\ReflectionEx.genruntimeconfig.cache
+D:\Lets Code\Web Full Stack\3 - Programação Orientada a Objetos II\Reflection\Reflection\obj\Debug\net6.0\ref\ReflectionEx.dll
